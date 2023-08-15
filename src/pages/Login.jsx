@@ -49,7 +49,7 @@ function Login() {
             <div className="loginScreen__background">
                 <img
                     className="loginScreen__logo"
-                    src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/1200px-Netflix_2015_logo.svg.png"
+                    src="/netflixLogo.png"
                     alt="Netflix logo"
                 />
                 <button onClick={() => setSignIn(true)} className="loginScreen__button">

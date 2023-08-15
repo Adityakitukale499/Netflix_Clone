@@ -92,3 +92,7 @@
   .loginScreen__input {
     margin: 20px;
   }
+
+  .loginScreen__background img{
+    margin-top: -18px;
+  }
