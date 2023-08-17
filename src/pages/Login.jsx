@@ -16,7 +16,7 @@ function Login() {
             setUsers([...data.data])
         }
         getData()
-    }, [])
+    }, [signIn])
 
     const handleSubmit = async (e) => {
         e.preventDefault()
